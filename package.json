@@ -45,5 +45,5 @@
     "react": "^17.0.0 || ^18.0.0",
     "react-dom": "^17.0.0 || ^18.0.0"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "1.22.22"
 }
