@@ -6,8 +6,7 @@
     "env:config": "cp .env.sample .env && printf NEXTAUTH_SECRET=$(openssl rand -base64 32) >> .env",
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
     "@circle-fin/w3s-pw-web-sdk": "^1.0.2",
